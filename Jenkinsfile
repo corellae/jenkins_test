@@ -11,6 +11,7 @@ pipeline {
         echo 'this is all for triggers, goodbye!'
         echo 'this is another udpate'
         echo 'yet another update'
+        echo 'testing one more time'
       }
     }
 
