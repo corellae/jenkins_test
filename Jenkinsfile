@@ -9,6 +9,7 @@ pipeline {
     stage('goodbye'){
       steps {
         echo 'this is all for triggers, goodbye!'
+        echo 'this is another udpate'
       }
     }
 
