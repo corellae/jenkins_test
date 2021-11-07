@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('echo') {
       steps {
-        echo 'hello'
+        echo 'hello, this was triggered by scm change'
       }
     }
 
