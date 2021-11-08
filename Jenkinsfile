@@ -15,6 +15,7 @@ pipeline {
         echo 'yet another update'
         echo 'testing one more time'
         echo 'adding another update'
+        echo 'latest update'
       }
     }
 
