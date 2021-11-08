@@ -12,6 +12,7 @@ pipeline {
         echo 'this is another udpate'
         echo 'yet another update'
         echo 'testing one more time'
+        echo 'adding another update'
       }
     }
 
